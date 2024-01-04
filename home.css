@@ -1,2 +1,22 @@
 
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+#first-line{
+    position: relative; top: 30px;
+}
+
+#first-line-right{
+    position: relative; top: 30px;
+    position: relative; left: 580px;
+}
+
+#hr-line{
+    width: 95%;
+    position: relative;top: 35px;
+}
+
+#word{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;top: 45px;
+    position: relative; left: 65px;
+}
