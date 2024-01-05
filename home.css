@@ -46,6 +46,10 @@ text-decoration: none;
 background-color: b;
   }
 
+  li a:active{
+    color: orange;
+  }
+
   #search-box{
     border-radius: 50px;
     background-color: black;
@@ -63,8 +67,86 @@ background-color: b;
 
   #gift-icon{
     float: left;
-    position: relative; left: 26px;
+    position: relative; left: 27px;
     position: relative; top: 23px;
     overflow: hidden;
     
   }
+
+  .container {
+    background-image: url(images/image\ 1.jpg);
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 598px;
+    width: 1300px
+  }
+  
+  .bottom-left{
+    border: 2px solid white;
+    background-color: white;
+    color: orange;
+    position: absolute;
+    top: 48%;
+    left: 200px;
+    font-size: 24px;
+    
+  }
+
+  .top-left{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 55%;
+    left: 200px;
+    font-size: 44px;
+    font-weight: bold;
+  }
+
+  .top-right{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 65%;
+    left: 200px;
+    font-size: 44px;
+    font-weight: bold;
+  }
+
+  .good-line{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 72%;
+    left: 200px;
+    font-size: 44px;
+    font-weight: bold;
+    
+  }
+
+  .orange-circle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: orange;
+    position: relative; top: 530px;
+    position: relative; left: 190px;
+    border: 2px solid orange;
+}
+
+.white-circle {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgb(245, 245, 245);
+  position: relative; top: 518px;
+  position: relative; left: 210px;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.white-circle1 {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: relative; top: 506px;
+  position: relative; left: 230px;
+  border: 2px solid rgb(255, 255, 255);
+}
