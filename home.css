@@ -15,8 +15,56 @@
 }
 
 #word{
-    font-size: larger;
+    font-size: 33px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: relative;top: 45px;
     position: relative; left: 65px;
 }
+
+ul {
+    list-style-type: none;
+    position: relative; left: 550px;
+    position: relative; top: -29px;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 25px;
+    color: black;
+    text-decoration: none;
+    
+  }
+
+  li a:hover{
+color: orange;
+text-decoration: none;
+background-color: b;
+  }
+
+  #search-box{
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 30px;
+    float: left;
+    position: relative; left: 30px;
+    position: relative; top: 10px;
+    overflow: hidden;
+    height: 0px;
+    width: 215px;
+    border: 1px;
+  }
+
+  #gift-icon{
+    float: left;
+    position: relative; left: 26px;
+    position: relative; top: 23px;
+    overflow: hidden;
+    
+  }
