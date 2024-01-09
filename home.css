@@ -150,3 +150,45 @@ background-color: b;
   position: relative; left: 230px;
   border: 2px solid rgb(255, 255, 255);
 }
+
+.container1 {
+    position: relative;
+    color: white;
+    height: 598px;
+    width: 1300px;
+}
+
+#minimalist{
+  position: relative; left: 200px;
+  position: relative; top: 60px;
+  
+}
+
+.golden{
+  position: relative; left: 500px;
+  position: relative; top: -310px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.harry{
+  position: relative; left:500px;
+  position: relative; top: -305px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.styles{
+  position: relative; left:500px;
+  position: relative; top:-300px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.styles1{
+  position: relative; left:500px;
+  position: relative; top:-260px;
+  font-size: 15px;
+  font-weight: 500;
+  color: orange;
+}

@@ -1,0 +1,453 @@
+.container{
+    text-align: center;
+    color: black;
+    font-size:30px ;
+    font-weight: bold;
+    position: relative; top: 30px;
+     
+}
+
+.hoggy{
+    margin-left: 100px;
+    margin-top: 7%;
+}
+
+.hoggy1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 30px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+.hoggy2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hoggy3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.hoggy4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+
+}
+
+.hoggy5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.hoggy6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+    
+}
+
+.hoggy7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.hoggy8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button1{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.polo{
+    margin-left: 535px;
+    margin-top: -445px;
+}
+
+.polo1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 21px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+
+.polo2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.polo3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.polo4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.polo5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.polo6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.polo7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.polo8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button2{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.silly{
+    margin-left: 960px;
+    margin-top: -445px;
+}
+
+.silly1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 21px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+
+.silly2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.silly3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.silly4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.silly5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.silly6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.silly7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.silly8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button3{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.birdy{
+    margin-left: 100px;
+    margin-top: 7%;
+}
+
+.birdy1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 30px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+
+.birdy2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.birdy3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.birdy4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.birdy5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.birdy6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.birdy7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.birdy8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button4{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.baby{
+    margin-left: 535px;
+    margin-top: -445px;
+}
+
+.baby1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 21px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+
+.baby2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.baby3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.baby4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.baby5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.baby6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.baby7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.baby8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button5{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.canal{
+    margin-left: 960px;
+    margin-top: -445px;
+}
+
+.canal1{
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: pink;
+    margin-top: 21px;
+    color: navy;
+    text-align: center;
+    font-size: 15px;
+}
+
+.canal2{
+    color: orange;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.canal3{
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.canal4{
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.canal5{
+    color: grey;
+    margin-top: -24px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+
+.canal6{
+    color: grey;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.canal7{
+    color: grey;
+    margin-top: -24px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.canal8{
+    color: grey;
+    margin-top: -22px;
+    margin-left: 190px;
+    font-size: 15px;
+}
+
+.button6{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    border: 2px solid black;
+}
