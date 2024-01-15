@@ -1,3 +1,8 @@
+*{
+    margin-right: -200px;
+    max-width: 100%;
+  
+}
 .design{
     
     height: 598px;
@@ -7,7 +12,7 @@
     
     .design1{
         background-image: url(images/image\ 5.jpg);
-        height: 598px;
+        height: 598px; 
         width: 1366px;
         background-size:cover ;
         background-position: center;
@@ -98,3 +103,45 @@
         margin-top: -59px;
     }
 
+    .never{
+        margin-top: 190px;
+        margin-left: 100px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 600;
+    }
+
+    .let{
+        color: white;
+        border: 2px solid orange;
+        background-color: orange;
+        height: 45px;
+        width: 160px;
+        text-align: center;
+        border-radius: 7px;
+        margin-top: -87px;
+        margin-left: 700px;
+    }
+
+    .let1{
+        color: white;
+        border: 2px solid black;
+        background-color: black;
+        height: 45px;
+        width: 160px;
+        text-align: center;
+        border-radius: 7px;
+        margin-top: -49px;
+        margin-left: 850px;
+    }
+
+    .let2{
+        color: white;
+        border: 2px solid black;
+        background-color: black;
+        height: 45px;
+        width: 160px;
+        text-align: center;
+        border-radius: 7px;
+        margin-top: -47px;
+        margin-left: 1060px;
+    }
